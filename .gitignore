@@ -42,3 +42,5 @@ node_modules/
 # Archive
 *.tar.gz
 *.zip
+*.rar
+*.pdf
