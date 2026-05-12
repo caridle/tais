@@ -1,0 +1,44 @@
+# Rust
+tais-core/target/
+**/*.rs.bk
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.exe
+*.pdb
+
+# Database
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Config (contains API keys)
+tais.toml
+.env
+
+# Temp
+temp/
+*.tmp
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node (if any)
+node_modules/
+
+# Archive
+*.tar.gz
+*.zip
